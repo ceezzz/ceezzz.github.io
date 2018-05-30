@@ -11,10 +11,10 @@
 
     <body>
         <div class="container">
-            <h1><center> Cesar Jaimes </center></h1>
+            <h1> Cesar Jaimes </h1>
             <img src="IMG_5890.jpg" style="width:256px;height:320px">
-            <h2><center> About Me </center></h2>
-            <p><center>Hello my name is Cesar and I am a Computer Science Major at Florida Atlantic University</center></p>
+            <h2> About Me </h2>
+            <p> Hello my name is Cesar and I am a Computer Science Major at Florida Atlantic University </p>
         </div>
     </body>
 </html>
