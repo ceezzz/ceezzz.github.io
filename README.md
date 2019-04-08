@@ -14,7 +14,10 @@
             <h1> Cesar Jaimes </h1>
             <img src="IMG_5890.jpg" style="width:256px;height:320px">
             <h2> About Me </h2>
-            <p> Hello my name is Cesar and I am a Computer Science Major at Florida Atlantic University </p>
+            <p> Hello my name is Cesar and I am a Computer Science Major at Florida Atlantic University. Below are some of the projects that I have worked on.</p>
+            <ul>
+                <li><a href="http://lamp.cse.fau.edu/~cjaimes2014/hw4/">Unit Converter</a></li>
+            </ul>
         </div>
     </body>
 </html>
