@@ -16,7 +16,8 @@
             <h2> About Me </h2>
             <p> Hello my name is Cesar and I am a Computer Science Major at Florida Atlantic University. Below are some of the projects that I have worked on.</p>
             <ul>
-                <li><a href="http://lamp.cse.fau.edu/~cjaimes2014/unitconversionphp/">Unit Converter PHP</a>
+                <li>
+                    <a href="http://lamp.cse.fau.edu/~cjaimes2014/unitconversionphp/">Unit Converter PHP</a>
                     <a href="http://lamp.cse.fau.edu/~cjaimes2014/unitconversionjs/">Unit Conversion JavaScript</a>
                 </li>
             </ul>
