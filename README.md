@@ -18,6 +18,8 @@
             <ul>
                 <li><a href="http://lamp.cse.fau.edu/~cjaimes2014/unitconversionphp/">Unit Converter PHP</a></li>
                 <li><a href="http://lamp.cse.fau.edu/~cjaimes2014/unitconversionjs/">Unit Conversion JavaScript</a></li>
+                <li><a href="http://lamp.cse.fau.edu/~cjaimes2014/wordpress/">WordPress Website</a></li>
+                <li><a href="http://lamp.cse.fau.edu/~cen40102um18_g06/test/">FAU Social Media</a></li>
             </ul>
         </div>
     </body>
