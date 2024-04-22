@@ -12,7 +12,8 @@
     <div class="grid-container">
       <div class="grid-item">1</div>
       <div class="grid-item">2</div>
-      <div class="grid-item">3</div>  
+      <div class="grid-item">3</div> 
+      <div class="grid-item">3</div> 
     </div>
         <div class="container">
             <h1> Cesar Jaimes </h1>
