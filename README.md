@@ -10,6 +10,8 @@
     </head>
 
     <body>
+        <div class="grid-container">
+        </div>
         <div class="container">
             <h1> Cesar Jaimes </h1>
             <img src="IMG_5890.jpg" style="width:256px;height:320px">
