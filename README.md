@@ -22,10 +22,7 @@
             <p> Hello my name is Cesar Jaimes and I've recently decided to dable in github once again. The project plan here is to start a portfolio of past and present projects I've been working on.
                 Below are some of the projects that I have worked on while at FAU. I've slowly began migrating those projects to github pages. I'm excited to see what this journey will teach me.</p>
             <ul>
-                <li><a href="http://lamp.cse.fau.edu/~cjaimes2014/unitconversionphp/">Unit Converter PHP</a></li>
                 <li><a href="https://ceezzz.github.io/ceezzz.unitconversioninJS.io/">Unit Conversion JavaScript</a></li>
-                <li><a href="http://lamp.cse.fau.edu/~cjaimes2014/wordpress/">WordPress Website</a></li>
-                <li><a href="http://lamp.cse.fau.edu/~cen4010sum18_g06/test/">FAU Social Media</a></li>
             </ul>
         </div>
     </body>
