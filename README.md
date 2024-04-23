@@ -10,10 +10,10 @@
     </head>
     <body>
     <div class="grid-container">
-      <div class="grid-item-row">1</div>
-      <div class="grid-item-row">2</div>
-      <div class="grid-item-row">3</div> 
-      <div class="grid-item-row">4</div> 
+      <div>1</div>
+      <div>2</div>
+      <div>3</div> 
+      <div>4</div> 
     </div>
         <div class="container">
             <h1> Cesar Jaimes </h1>
