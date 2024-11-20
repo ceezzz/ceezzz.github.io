@@ -9,16 +9,6 @@
         
     </head>
     <body>
-    <div class="grid-container">
-      <div class="box">1</div>
-      <div class="box">2</div>
-      <div class="box">3</div> 
-      <div class="box">4</div> 
-      <div class="box">5</div>
-      <div class="box">6</div>
-      <div class="box">7</div> 
-      <div class="box">8</div> 
-    </div>
         <div class="container">
             <h1> Cesar Jaimes </h1>
             <img src="IMG_5890.jpg" style="width:256px;height:320px">
